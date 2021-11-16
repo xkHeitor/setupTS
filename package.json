@@ -1,0 +1,30 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "TypeScript node.js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xkHeitor/ts.git"
+  },
+  "keywords": [
+    "nodejs.typescript.api"
+  ],
+  "author": "Heitor Carvalho R.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xkHeitor/ts/issues"
+  },
+  "homepage": "https://github.com/xkHeitor/ts#readme",
+  "devDependencies": {
+    "@types/module-alias": "^2.0.1",
+    "@types/node": "^16.11.7",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.2"
+  }
+}
