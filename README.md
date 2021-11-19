@@ -1,1 +1,1 @@
-# Setup inicial de TypeScript com NodeJS, JEST, overnightjs, 
+# Setup inicial de TypeScript com NodeJS, JEST, overnightjs, eslint
